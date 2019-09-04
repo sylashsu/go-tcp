@@ -1,4 +1,4 @@
-``# Simple golang tcp server/client
+# Simple golang tcp server/client
 
 ## server
 
